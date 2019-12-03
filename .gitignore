@@ -1,5 +1,8 @@
 .DS_Store
 
-env/
-
+# Environments
 .env
+.venv
+env/
+venv/
+ENV/
